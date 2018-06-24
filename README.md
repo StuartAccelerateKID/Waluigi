@@ -15,4 +15,3 @@ Source -> https://modulous.net/mod/1740/Waluigi%20(Over%20Mario)
 
 4) We modified the .dat files with a hex editor to fix some model issues.
 
-5) We are working on customizing moves. 
